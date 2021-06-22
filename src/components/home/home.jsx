@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+﻿import React, { Component } from "react";
 import { withRouter } from "react-router-dom";
 import { withStyles } from '@material-ui/core/styles';
 import {
@@ -10,7 +10,7 @@ import { colors } from '../../theme'
 import FlashOnIcon from '@material-ui/icons/FlashOn';
 import AttachMoneyIcon from '@material-ui/icons/AttachMoney';
 import BarChartIcon from '@material-ui/icons/BarChart';
-import PieChartIcon from '@material-ui/icons/PieChart';
+import PieChartIcon from '@material-ui/icons/account-balance';
 import WarningIcon from '@material-ui/icons/Warning';
 
 const styles = theme => ({
