@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+﻿import React, { Component } from 'react'
 import { withStyles } from '@material-ui/core/styles';
 import {
   Typography,
@@ -203,9 +203,9 @@ class Header extends Component {
           </div>
           <div className={ classes.links }>
             { this.renderLink('dashboard') }
-            { this.renderMenuLinks({ label: 'yield', screens: ['vaults', 'earn', 'zap', 'experimental', 'stats'] }) }
+            { this.renderMenuLinks({ label: 'Honeyyield', screens: ['Honey', 'Hive', 'Buzz', 'experimental', 'stats'] }) }
             { this.renderLink('lending') }
-            { this.renderLink('cover') }
+            { this.renderLink('Honey Jar') }
           </div>
           <div className={ classes.account }>
             { address &&
