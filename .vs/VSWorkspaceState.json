@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\cover",
+    "\\src\\assets\\fonts",
+    "\\src\\components",
+    "\\src\\components\\builtwith",
+    "\\src\\components\\cover"
+  ],
+  "SelectedNode": "\\.github\\workflows\\board.yaml",
+  "PreviewInSolutionExplorer": false
+}
